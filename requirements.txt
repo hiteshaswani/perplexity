@@ -1,0 +1,11 @@
+ollama
+aiohttp
+beautifulsoup4
+ddgs
+fastapi
+uvicorn
+pydantic
+lxml
+certifi
+feedparser
+playwright

@@ -9,3 +9,6 @@ lxml
 certifi
 feedparser
 playwright
+google-genai
+requests
+python-dotenv

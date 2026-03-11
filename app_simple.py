@@ -14,8 +14,10 @@ from crawler import crawl_pages
 from rss_parser import fetch_rss_fallback
 
 # Configuration
-MAX_SEARCH_QUERIES = 5
-MAX_RESULTS_PER_QUERY = 5
+#MAX_SEARCH_QUERIES = 5
+#MAX_RESULTS_PER_QUERY = 5
+MAX_SEARCH_QUERIES = 1
+MAX_RESULTS_PER_QUERY = 2
 
 
 def initial_research(query: str) -> dict:
